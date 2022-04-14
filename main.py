@@ -1,3 +1,4 @@
+# Мелешин Демид КН-204(МЕН-200201) TCP/UDP Scanner.
 from socket import *
 import argparse
 
